@@ -50,7 +50,6 @@ public abstract class BaseFragmentDialog extends DialogFragment {
     protected abstract View initView(LayoutInflater inflater);
 
     public void initDialog(){
-
     }
 
     protected abstract int initAnimations();
