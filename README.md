@@ -23,7 +23,7 @@
    	}
    ```
 
-### 方式二:(方便自定义修改)下载源码使用Module添加：imagebrowserlibrary
+### 方式二:(方便自定义修改)下载源码使用Module添加yyphotoview
 
 ``` gradle
 	compile project(':yyphotoview')
